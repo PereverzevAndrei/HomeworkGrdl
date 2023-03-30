@@ -1,0 +1,5 @@
+rootProject.name = 'HomeworkGrdl'
+include 'db'
+include 'api'
+include 'service'
+
