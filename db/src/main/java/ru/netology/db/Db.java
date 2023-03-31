@@ -1,3 +1,4 @@
+package ru.netology.db;
 import java.util.UUID;
 
 public class Db {
